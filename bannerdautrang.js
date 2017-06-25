@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/rJrb8d' target='_blank'><img src='http://batdongsanhungthinhvn.com/upload/images/vi%20tri%20mystery%20villas.jpg' width='500px'/><br/>căn hộ florita Garden Hưng Thịnh</a>.LH PKD Hưng Thịnh 0986877607.   <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/rJrb8d' target='_blank'><img src='http://batdongsanhungthinhvn.com/upload/images/tong-quan-du-an-cam-ranh-universe-villas_1489241576.jpg' width='500px'/><br/>căn hộ florita Garden Hưng Thịnh</a>.LH PKD Hưng Thịnh 0986877607.   <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
