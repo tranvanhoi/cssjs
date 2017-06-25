@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://batdongsanhungthinhvn.com';
+	var url_popup = 'http://bit.ly/2t7BjZi';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
